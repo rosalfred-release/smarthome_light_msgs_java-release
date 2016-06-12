@@ -1,0 +1,1 @@
+# smarthome_light_msgs_java-release
